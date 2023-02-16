@@ -27,3 +27,6 @@ def send_text(message):
         bot.send_message(message.chat.id, "Thursday", reply_markup=keyboard2)
 
 bot.polling()
+
+# LOCAL DEVELOPMENT
+1. Open Something In Your Browser.
