@@ -29,4 +29,4 @@ def send_text(message):
 bot.polling()
 
 # LOCAL DEVELOPMENT
-1. Open Something In Your Browser.
+# 1. Open Something In Your Browser.
